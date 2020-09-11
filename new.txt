@@ -1,4 +1,0 @@
-this is a dog.
-this is 2nd line.
-23!
-25!
